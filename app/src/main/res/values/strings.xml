@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Listr</string>
+    <string name="menu_naughty">Naughty</string>
+    <string name="menu_nice">Nice</string>
+    <string name="name_hint">Name</string>
+    <string name="add_naughty">Add to Naughty</string>
+    <string name="add_nice">Add to Nice</string>
+    <string name="nav_header_title">Listr</string>
+    <string name="nav_header_subtitle">Naughty or Nice?</string>
+</resources>

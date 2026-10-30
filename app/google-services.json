@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "725052725278",
+    "project_id": "listrkaur-511",
+    "storage_bucket": "listrkaur-511.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725052725278:android:f3f3d5509e109c45ecf60f",
+        "android_client_info": {
+          "package_name": "com.bignerdranch.android.listrkaur"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGdYBA8ZIcfrkPB66-sFivqnyDfzUd_Q8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
